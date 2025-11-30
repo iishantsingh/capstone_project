@@ -111,16 +111,16 @@ Semantic tags like <header>, <section>, <main>, <footer>, <nav>
 
 # How to Run the Project
 
-## 1. Download all project files
+ 1. Download all project files
 
 
-## 2. Keep index.html, style.css, and the images/ folder in the same directory
+ 2. Keep index.html, style.css, and the images/ folder in the same directory
 
 
-## 3. Open index.html in any browser
+ 3. Open index.html in any browser
 
 
-## 4. The website will load automatically
+ 4. The website will load automatically
 
 --- 
 
