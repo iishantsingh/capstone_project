@@ -73,7 +73,7 @@ A simple and functional contact form with:
 
 ---
 
-# Technologies Used
+# 🌐 Technologies Used
 
 1. HTML5
 
@@ -87,7 +87,7 @@ A simple and functional contact form with:
 
 ----
 
-# Responsiveness Breakpoints
+# 👾 Responsiveness Breakpoints
 
 Desktop: ≥ 1024px
 
@@ -97,7 +97,7 @@ Mobile: ≤ 480px
 
 ---
 
-# Accessibility Features
+# 📱 Accessibility Features
 
 Skip-to-content link
 
@@ -109,7 +109,7 @@ Semantic tags like <header>, <section>, <main>, <footer>, <nav>
 
 ---
 
-# How to Run the Project
+# 🤔 How to Run the Project
 
  1. Download all project files
 
@@ -124,7 +124,7 @@ Semantic tags like <header>, <section>, <main>, <footer>, <nav>
 
 --- 
 
-# Project Folder Structure 
+# 📂 Project Folder Structure 
 index.html  
 style.css  
 images/ (3 course images)  
@@ -132,7 +132,13 @@ README.md
 
 --- 
 
-# Author
+# Screenshots
+
+
+---
+
+
+# 🙌🏻 Author
 
 Ishant Singh 
 
