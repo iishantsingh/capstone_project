@@ -1,4 +1,4 @@
-# Learnify - Online learning platform
+# 📘Learnify - Online learning platform
 
 Learnify is a responsive online learning platform designed using HTML and CSS.
 The website showcases educational categories, featured courses, a contact form, and a clean layout inspired by modern ed-tech platforms.
