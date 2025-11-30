@@ -17,7 +17,7 @@ The goal of this project is to demonstrate:
 
 ---
 
-# Features Included
+# 🚀 Features Included
 
 ## 1. Navigation Bar
 1. Contains logo, menu links, and Login/Signup buttons
