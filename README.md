@@ -1,5 +1,9 @@
 # 📘Learnify - Online learning platform
 
+
+https://iishantsingh-capstone-project.netlify.app/
+
+
 Learnify is a responsive online learning platform designed using HTML and CSS.
 The website showcases educational categories, featured courses, a contact form, and a clean layout inspired by modern ed-tech platforms.
 
@@ -133,6 +137,11 @@ README.md
 --- 
 
 # 🖥️ Screenshots
+
+![capston output1](https://github.com/user-attachments/assets/e4a95a25-9f34-497c-9c73-a0b9b6548654)
+
+
+![capstone output2](https://github.com/user-attachments/assets/25c7613d-3302-4032-91ad-21ad88242dfe)
 
 
 ---
